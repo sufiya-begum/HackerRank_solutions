@@ -1,0 +1,17 @@
+{
+  "hackerrank": {
+    "solved": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "unknown": 0,
+    "shas": {
+      "weather-observation-station-3": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "DB2",
+        "date": "2026-09-22T10:10:39.565Z"
+      }
+    }
+  }
+}
