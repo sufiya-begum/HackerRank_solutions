@@ -1,20 +1,29 @@
 {
   "codechef": {
-    "solved": 1,
-    "star1": 1,
-    "star2_3": 0,
-    "star4_5": 0,
-    "star6_7": 0,
     "shas": {
       "PGNATK - PGNATK": {
+        "category": "star1",
+        "date": "2026-09-23T14:48:41.813Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "LITUP - LITUP": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-23T14:48:41.813Z"
+        "date": "2026-09-23T14:48:48.982Z"
       }
-    }
+    },
+    "solved": 2,
+    "star1": 2,
+    "star2_3": 0,
+    "star4_5": 0,
+    "star6_7": 0
   }
 }
