@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 9,
-    "easy": 9,
+    "solved": 10,
+    "easy": 10,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -59,6 +59,12 @@
         "category": "easy",
         "language": "DB2",
         "date": "2026-09-25T13:01:29.574Z"
+      },
+      "weather-observation-station-12": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "DB2",
+        "date": "2026-09-25T13:03:53.245Z"
       }
     }
   }
