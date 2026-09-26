@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 11,
-    "easy": 11,
+    "solved": 12,
+    "easy": 12,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -71,6 +71,12 @@
         "category": "easy",
         "language": "DB2",
         "date": "2026-09-25T13:34:08.574Z"
+      },
+      "salary-of-employees": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "DB2",
+        "date": "2026-09-26T06:31:54.118Z"
       }
     }
   }
