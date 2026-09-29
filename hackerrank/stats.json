@@ -1,8 +1,8 @@
 {
   "hackerrank": {
-    "solved": 14,
+    "solved": 15,
     "easy": 14,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "unknown": 0,
     "shas": {
@@ -89,6 +89,12 @@
         "category": "easy",
         "language": "DB2",
         "date": "2026-09-28T05:25:22.568Z"
+      },
+      "the-pads": {
+        "difficulty": "Medium",
+        "category": "medium",
+        "language": "DB2",
+        "date": "2026-09-29T06:45:31.439Z"
       }
     }
   }
