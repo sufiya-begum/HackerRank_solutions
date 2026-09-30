@@ -1,8 +1,8 @@
 {
   "hackerrank": {
-    "solved": 16,
+    "solved": 17,
     "easy": 15,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "unknown": 0,
     "shas": {
@@ -101,6 +101,12 @@
         "category": "easy",
         "language": "Python 3",
         "date": "2026-09-30T17:29:39.535Z"
+      },
+      "triangle-quest-2": {
+        "difficulty": "Medium",
+        "category": "medium",
+        "language": "Python 3",
+        "date": "2026-09-30T17:34:26.519Z"
       }
     }
   }
