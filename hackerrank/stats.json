@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 15,
-    "easy": 14,
+    "solved": 16,
+    "easy": 15,
     "medium": 1,
     "hard": 0,
     "unknown": 0,
@@ -95,6 +95,12 @@
         "category": "medium",
         "language": "DB2",
         "date": "2026-09-29T06:45:31.439Z"
+      },
+      "nested-list": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "Python 3",
+        "date": "2026-09-30T17:29:39.535Z"
       }
     }
   }
