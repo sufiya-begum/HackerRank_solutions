@@ -35,4 +35,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0595-big-countries) |
 <!---LeetCode Topics End-->
