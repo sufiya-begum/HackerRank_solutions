@@ -10,22 +10,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
