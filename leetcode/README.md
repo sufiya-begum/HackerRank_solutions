@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
