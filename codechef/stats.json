@@ -28,6 +28,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "MEXGAME1 - MEXGAME1": {
+        "category": "star1",
+        "date": "2026-09-30T14:49:51.039Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "PGNATK - PGNATK": {
         "category": "star1",
         "date": "2026-09-23T14:48:41.813Z",
@@ -55,18 +64,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "MEXGAME1 - MEXGAME1": {
+      "TYPWRL - TYPWRL": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-30T14:49:51.039Z"
+        "date": "2026-10-07T02:34:40.864Z"
       }
     },
-    "solved": 7,
-    "star1": 7,
+    "solved": 8,
+    "star1": 8,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
