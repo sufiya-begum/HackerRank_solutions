@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0620-not-boring-movies) |
 ## Greedy
 |  |
 | ------- |
