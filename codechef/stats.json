@@ -65,17 +65,26 @@
         "tier": "1★ Beginner Level"
       },
       "TYPWRL - TYPWRL": {
+        "category": "star1",
+        "date": "2026-10-07T02:34:40.864Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "WRSTP - WRSTP": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-07T02:34:40.864Z"
+        "date": "2026-10-07T02:47:54.798Z"
       }
     },
-    "solved": 8,
-    "star1": 8,
+    "solved": 9,
+    "star1": 9,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
