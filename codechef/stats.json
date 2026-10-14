@@ -100,6 +100,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "WATERMOVE - WATERMOVE": {
+        "category": "star1",
+        "date": "2026-10-14T14:45:31.620Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "WATERMOVE2 - WATERMOVE2": {
         "category": "star1",
         "date": "2026-10-14T14:42:49.211Z",
@@ -118,18 +127,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "WATERMOVE - WATERMOVE": {
+      "DIFFGCD - DIFFGCD": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-14T14:45:31.620Z"
+        "date": "2026-10-14T14:51:17.940Z"
       }
     },
-    "solved": 14,
-    "star1": 14,
+    "solved": 15,
+    "star1": 15,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
