@@ -19,6 +19,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "CHANGEONE7 - CHANGEONE7": {
+        "category": "star1",
+        "date": "2026-10-14T14:42:31.393Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "CHOCCUT - CHOCCUT": {
         "category": "star1",
         "date": "2026-09-30T14:33:41.912Z",
@@ -100,18 +109,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "CHANGEONE7 - CHANGEONE7": {
+      "WATERMOVE2 - WATERMOVE2": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-14T14:42:31.393Z"
+        "date": "2026-10-14T14:42:49.211Z"
       }
     },
-    "solved": 12,
-    "star1": 12,
+    "solved": 13,
+    "star1": 13,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
