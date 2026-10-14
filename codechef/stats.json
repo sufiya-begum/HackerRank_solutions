@@ -1,6 +1,15 @@
 {
   "codechef": {
     "shas": {
+      "ANOTSTR - ANOTSTR": {
+        "category": "star1",
+        "date": "2026-10-07T02:53:23.182Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "CHOCCUT - CHOCCUT": {
         "category": "star1",
         "date": "2026-09-30T14:33:41.912Z",
@@ -82,18 +91,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "ANOTSTR - ANOTSTR": {
+      "BLUEBLACK - BLUEBLACK": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-07T02:53:23.182Z"
+        "date": "2026-10-14T14:39:39.754Z"
       }
     },
-    "solved": 10,
-    "star1": 10,
+    "solved": 11,
+    "star1": 11,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
