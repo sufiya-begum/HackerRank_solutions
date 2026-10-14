@@ -37,6 +37,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "DIFFGCD - DIFFGCD": {
+        "category": "star1",
+        "date": "2026-10-14T14:51:17.940Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "FALLPR - FALLPR": {
         "category": "star1",
         "date": "2026-09-23T14:57:47.847Z",
@@ -127,18 +136,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "DIFFGCD - DIFFGCD": {
+      "MERGEEZ - MERGEEZ": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-14T14:51:17.940Z"
+        "date": "2026-10-14T15:01:23.422Z"
       }
     },
-    "solved": 15,
-    "star1": 15,
+    "solved": 16,
+    "star1": 16,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
