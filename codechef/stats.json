@@ -10,6 +10,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "BETWEEN - BETWEEN": {
+        "category": "star1",
+        "date": "2026-10-21T14:32:19.234Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "BLUEBLACK - BLUEBLACK": {
         "category": "star1",
         "date": "2026-10-14T14:39:39.754Z",
@@ -145,18 +154,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "BETWEEN - BETWEEN": {
+      "EXSHAKE - EXSHAKE": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-21T14:32:19.234Z"
+        "date": "2026-10-21T14:35:10.388Z"
       }
     },
-    "solved": 17,
-    "star1": 17,
+    "solved": 18,
+    "star1": 18,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
