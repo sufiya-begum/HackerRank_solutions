@@ -64,6 +64,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "MERGEEZ - MERGEEZ": {
+        "category": "star1",
+        "date": "2026-10-14T15:01:23.422Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "MEXGAME1 - MEXGAME1": {
         "category": "star1",
         "date": "2026-09-30T14:49:51.039Z",
@@ -136,18 +145,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "MERGEEZ - MERGEEZ": {
+      "BETWEEN - BETWEEN": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-14T15:01:23.422Z"
+        "date": "2026-10-21T14:32:19.234Z"
       }
     },
-    "solved": 16,
-    "star1": 16,
+    "solved": 17,
+    "star1": 17,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
