@@ -64,6 +64,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "EQLZR - EQLZR": {
+        "category": "star1",
+        "date": "2026-10-28T14:47:07.612Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "EXKEYPAD - EXKEYPAD": {
         "category": "star1",
         "date": "2026-10-21T14:47:58.941Z",
@@ -208,18 +217,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "EQLZR - EQLZR": {
+      "COLLAPSEE - COLLAPSEE": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-28T14:47:07.612Z"
+        "date": "2026-10-28T14:55:45.967Z"
       }
     },
-    "solved": 24,
-    "star1": 24,
+    "solved": 25,
+    "star1": 25,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
