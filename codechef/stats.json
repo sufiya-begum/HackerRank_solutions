@@ -1,6 +1,15 @@
 {
   "codechef": {
     "shas": {
+      "ALARMM - ALARMM": {
+        "category": "star1",
+        "date": "2026-10-28T14:38:51.274Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "ANOTSTR - ANOTSTR": {
         "category": "star1",
         "date": "2026-10-07T02:53:23.182Z",
@@ -199,18 +208,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "ALARMM - ALARMM": {
+      "EQLZR - EQLZR": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-28T14:38:51.274Z"
+        "date": "2026-10-28T14:47:07.612Z"
       }
     },
-    "solved": 23,
-    "star1": 23,
+    "solved": 24,
+    "star1": 24,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
