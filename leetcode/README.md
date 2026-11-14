@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1338-queries-quality-and-percentage) |
 | [1811-fix-names-in-a-table](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1877-find-followers-count) |
 ## Greedy
 |  |
