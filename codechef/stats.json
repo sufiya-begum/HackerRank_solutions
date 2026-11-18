@@ -127,6 +127,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "HALFPIE - HALFPIE": {
+        "category": "star1",
+        "date": "2026-11-18T14:35:26.870Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "LITUP - LITUP": {
         "category": "star1",
         "date": "2026-09-23T14:48:48.982Z",
@@ -226,18 +235,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "HALFPIE - HALFPIE": {
+      "SQUASH - SQUASH": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-11-18T14:35:26.870Z"
+        "date": "2026-11-18T14:37:31.182Z"
       }
     },
-    "solved": 26,
-    "star1": 26,
+    "solved": 27,
+    "star1": 27,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
