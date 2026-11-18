@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1877-find-followers-count) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/1892-find-total-time-spent-by-each-employee) |
 ## Greedy
 |  |
 | ------- |
