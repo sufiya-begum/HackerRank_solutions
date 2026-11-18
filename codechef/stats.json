@@ -55,6 +55,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "COLLAPSEE - COLLAPSEE": {
+        "category": "star1",
+        "date": "2026-10-28T14:55:45.967Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "DIFFGCD - DIFFGCD": {
         "category": "star1",
         "date": "2026-10-14T14:51:17.940Z",
@@ -217,18 +226,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "COLLAPSEE - COLLAPSEE": {
+      "HALFPIE - HALFPIE": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-10-28T14:55:45.967Z"
+        "date": "2026-11-18T14:35:26.870Z"
       }
     },
-    "solved": 25,
-    "star1": 25,
+    "solved": 26,
+    "star1": 26,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
