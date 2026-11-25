@@ -190,6 +190,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "PLACEROOKS - PLACEROOKS": {
+        "category": "star1",
+        "date": "2026-11-25T14:37:47.022Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "RHYDOOR - RHYDOOR": {
         "category": "star1",
         "date": "2026-10-28T14:36:15.066Z",
@@ -280,18 +289,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "PLACEROOKS - PLACEROOKS": {
+      "BOOKSHELF - BOOKSHELF": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-11-25T14:37:47.022Z"
+        "date": "2026-11-25T14:49:11.327Z"
       }
     },
-    "solved": 32,
-    "star1": 32,
+    "solved": 33,
+    "star1": 33,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
