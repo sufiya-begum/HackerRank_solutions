@@ -217,6 +217,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "UNPALIN - UNPALIN": {
+        "category": "star1",
+        "date": "2026-11-18T14:39:46.329Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "WATERMOVE - WATERMOVE": {
         "category": "star1",
         "date": "2026-10-14T14:45:31.620Z",
@@ -244,18 +253,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "UNPALIN - UNPALIN": {
+      "EXACTKMOVES - EXACTKMOVES": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-11-18T14:39:46.329Z"
+        "date": "2026-11-25T14:32:48.768Z"
       }
     },
-    "solved": 28,
-    "star1": 28,
+    "solved": 29,
+    "star1": 29,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
