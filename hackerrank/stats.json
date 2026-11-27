@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 17,
-    "easy": 15,
+    "solved": 18,
+    "easy": 16,
     "medium": 2,
     "hard": 0,
     "unknown": 0,
@@ -107,6 +107,12 @@
         "category": "medium",
         "language": "Python 3",
         "date": "2026-09-30T17:34:26.519Z"
+      },
+      "arrays-introduction": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "C++11",
+        "date": "2026-11-27T10:11:44.415Z"
       }
     }
   }
