@@ -1,8 +1,8 @@
 {
   "hackerrank": {
-    "solved": 19,
+    "solved": 20,
     "easy": 17,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "unknown": 0,
     "shas": {
@@ -119,6 +119,12 @@
         "category": "easy",
         "language": "C++11",
         "date": "2026-11-27T10:21:40.259Z"
+      },
+      "attribute-parser": {
+        "difficulty": "Medium",
+        "category": "medium",
+        "language": "C++11",
+        "date": "2026-11-27T13:14:41.001Z"
       }
     }
   }
