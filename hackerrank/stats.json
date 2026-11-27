@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 18,
-    "easy": 16,
+    "solved": 19,
+    "easy": 17,
     "medium": 2,
     "hard": 0,
     "unknown": 0,
@@ -113,6 +113,12 @@
         "category": "easy",
         "language": "C++11",
         "date": "2026-11-27T10:11:44.415Z"
+      },
+      "variable-sized-arrays": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "C++11",
+        "date": "2026-11-27T10:21:40.259Z"
       }
     }
   }
