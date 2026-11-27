@@ -72,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0678-valid-parenthesis-string) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sufiya-begum/HackerRank_solutions/tree/master/LeetCode/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
