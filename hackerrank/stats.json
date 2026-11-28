@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 24,
-    "easy": 17,
+    "solved": 25,
+    "easy": 18,
     "medium": 4,
     "hard": 3,
     "unknown": 0,
@@ -149,6 +149,12 @@
         "category": "medium",
         "language": "Language: C",
         "date": "2026-11-28T10:08:17.289Z"
+      },
+      "python-lists": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "Pypy 3",
+        "date": "2026-11-28T10:19:14.998Z"
       }
     }
   }
