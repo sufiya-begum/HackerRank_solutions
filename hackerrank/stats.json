@@ -1,8 +1,8 @@
 {
   "hackerrank": {
-    "solved": 23,
+    "solved": 24,
     "easy": 17,
-    "medium": 3,
+    "medium": 4,
     "hard": 3,
     "unknown": 0,
     "shas": {
@@ -143,6 +143,12 @@
         "category": "hard",
         "language": "Language: C",
         "date": "2026-11-28T09:25:54.664Z"
+      },
+      "permutations-of-strings": {
+        "difficulty": "Medium",
+        "category": "medium",
+        "language": "Language: C",
+        "date": "2026-11-28T10:08:17.289Z"
       }
     }
   }
